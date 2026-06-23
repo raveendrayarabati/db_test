@@ -1,0 +1,1 @@
+{"_invocation_id": "902d19df-73bb-43e6-a9eb-71d58b0caf94", "linked": {"0": {"name": "model.my_project.customer_summary", "type": "model"}, "1": {"name": "model.my_project.customers", "type": "model", "succ": [0]}}}
